@@ -24,4 +24,7 @@ Cette application développée avec **Shiny** permet d'explorer des données tex
 1. Ouvre RStudio
 2. Installe les dépendances si besoin :
 ```r
-install.packages(c("shiny", "tm", "tidytext", "wordcloud", "ggplot2", "dplyr"))
+install.packages(c("shiny", "shinythemes", "shinycssloaders", "readxl", "dplyr", "stringr", 
+  "rlang", "tibble", "tm", "tidytext", "wordcloud", "RColorBrewer", 
+  "ggplot2", "tidyr", "widyr", "igraph", "ggraph", "scales", 
+  "topicmodels", "slam", "LDAvis", "DT", "base64enc"))
