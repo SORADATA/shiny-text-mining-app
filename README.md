@@ -19,7 +19,7 @@ Cette application développée avec **Shiny** permet d'explorer des données tex
 - `wordcloud`, `ggplot2`, `dplyr`
 - `shinydashboard` (ou `shinythemes`, selon ton choix)
 
-## 🧪 Lancer l’application, clique cet URL : https://0qbv48-sissoko-moussa.shinyapps.io/Analytics_text/
+## 🧪 Lancer l’application ou cliquez sur cet URL : https://0qbv48-sissoko-moussa.shinyapps.io/Analytics_text/
 
 1. Ouvre RStudio
 2. Installe les dépendances si besoin :
