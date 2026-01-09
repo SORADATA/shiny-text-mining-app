@@ -14,7 +14,6 @@ Application interactive développée avec **Shiny** pour l'analyse et la visuali
 - [Installation](#-installation)
 - [Utilisation](#-utilisation)
 - [Structure du projet](#-structure-du-projet)
-- [Captures d'écran](#-captures-décran)
 - [Contribution](#-contribution)
 
 ---
@@ -235,20 +234,6 @@ shiny-text-mining/
 
 ---
 
-## 🖼️ Captures d'écran
-
-### Interface principale
-![Dashboard](screenshots/dashboard.png)
-
-### Nuage de mots
-![Wordcloud](screenshots/wordcloud.png)
-
-### Analyse de topics
-![Topics](screenshots/topics.png)
-
-*(Ajoutez vos captures d'écran dans un dossier `screenshots/`)*
-
----
 
 ## 🎓 Guide d'utilisation
 
@@ -291,16 +276,6 @@ Les contributions sont les bienvenues ! Voici comment participer :
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
----
-
-## 📞 Contact
-
-**Développé par Sissoko Moussa**
-
-- 📧 Email : votre.email@example.com
-- 💼 LinkedIn : [Votre profil](https://linkedin.com/in/votre-profil)
-- 🐙 GitHub : [@votre-username](https://github.com/votre-username)
 
 ---
 
